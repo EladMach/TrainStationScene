@@ -5,7 +5,7 @@ using UnityEngine;
 public class Train : MonoBehaviour
 {
 
-    public float _speed = 10f;
+    public float _speed = 100f;
 
     
     // Start is called before the first frame update
